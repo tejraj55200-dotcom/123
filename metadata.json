@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow - Priority & Task Manager",
+  "description": "A refined, responsive task and priority manager featuring subtasks, categorized workflows, smart filters, and persistent progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
